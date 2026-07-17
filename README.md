@@ -2,7 +2,7 @@
 
 <div align="center">
 
-# MUSTEX
+# MUSTEX DIGITAL
 
 ### Building Software That Scales
 
