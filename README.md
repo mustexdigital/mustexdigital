@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/Email-Contact%20Us-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/company/135267318/admin/dashboard/">
+<img src="https://img.shields.io/badge/LinkedIn-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 </p>
