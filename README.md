@@ -1,233 +1,237 @@
-
-
 <div align="center">
 
-# MUSTEX DIGITAL
-
-### Building Software That Scales
-
-Modern Software Development • Web Solutions • Mobile Applications • AI Automation
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,100:2563EB&text=MUSTEX&fontColor=ffffff&fontSize=65&fontAlignY=38&desc=Building%20Software%20That%20Scales&descAlignY=60"/>
 
 <br>
 
-We help startups, businesses, and entrepreneurs transform ideas into modern, scalable digital products.
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=25&duration=3000&pause=1000&color=2563EB&center=true&vCenter=true&width=800&lines=Modern+Software+Development;Full+Stack+Applications;Flutter+%26+Android+Apps;AI+Automation;Web+Engineering;Cloud+Ready+Solutions"/>
 
-<br>
+<br><br>
 
 <p>
-<a href="#"><img src="https://img.shields.io/badge/Website-Coming_Soon-2563EB?style=for-the-badge"></a>
-<a href="mailto:mustexdigital@gmail.com"><img src="https://img.shields.io/badge/Email-Contact_Us-2563EB?style=for-the-badge"></a>
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-Mustex_Digital-2563EB?style=for-the-badge"></a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/Website-Coming%20Soon-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:mustexdigital@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact%20Us-111827?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="#">
+<img src="https://img.shields.io/badge/LinkedIn-Coming%20Soon-2563EB?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
 </p>
-
----
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
-![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
-![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css)
 
 </div>
 
 ---
 
-# 🚀 About Mustex
+# Engineering Digital Excellence
 
-Mustex Digital is a modern software development company dedicated to building scalable, secure, and user-focused digital solutions.
-
-We specialize in designing and developing high-quality web applications, Android & Flutter mobile apps, business websites, AI-powered solutions, and custom software tailored to modern business needs.
-
-Our goal is simple:
-
-> **Build reliable software that helps businesses grow.**
+> We build scalable software, modern digital experiences, and intelligent solutions that help businesses innovate and grow.
 
 ---
 
-# 💼 Our Services
+# What We Build
 
-## 🌐 Website Development
+<table>
+<tr>
+
+<td width="50%">
+
+### 🌐 Web Development
 
 - Business Websites
 - Company Portfolios
 - Landing Pages
-- Custom Websites
-- E-Commerce Websites
-- Shopify Stores
-- WordPress Development
-- Wix Websites
-- Website Redesign
-- Website Maintenance
-- Website Optimization
-- Responsive Web Design
-
----
-
-## 💻 Full Stack Development
-
-- MERN Stack Applications
-- Custom Web Applications
-- REST API Development
-- Authentication & Authorization
-- Dashboard Systems
-- CRM Development
-- Admin Panels
-- Database Design
-- Backend Development
-
----
-
-## 📱 Mobile Application Development
-
-- Android Applications
-- Flutter Applications
-- Cross-Platform Apps
-- Firebase Integration
-- Mobile UI/UX
-- App Maintenance
-
----
-
-## 🎨 UI / UX Design
-
-- Modern UI Design
-- User Experience Design
-- Wireframes
-- Prototypes
-- Responsive Interfaces
-- Figma Design
-
----
-
-## 🤖 AI & Automation
-
-- AI Workflow Automation
-- AI Chatbots
-- Business Automation
-- Process Optimization
-
----
-
-## 🔧 Maintenance & Support
-
-- Website Maintenance
-- Application Maintenance
-- Bug Fixes
-- Performance Optimization
-- Security Improvements
-- Technical Support
-
----
-
-# 🛠 Technologies
-
-### Frontend
-
-- React.js
-- Next.js
-- HTML5
-- CSS3
-- JavaScript
-- Tailwind CSS
-
-### Backend
-
-- Node.js
-- Express.js
-- REST APIs
-
-### Database
-
-- MongoDB
-- MySQL
-- Firebase
-
-### Mobile
-
-- Flutter
-- Dart
-- Android
-
-### CMS & E-Commerce
-
 - WordPress
 - Shopify
 - Wix
+- E-Commerce Stores
+- Website Redesign
+- Website Maintenance
 
-### Design
+</td>
 
-- Figma
-- Photoshop
+<td width="50%">
 
-### Tools
+### 💻 Full Stack Engineering
 
-- Git
-- GitHub
-- VS Code
-- Postman
+- MERN Stack
+- REST APIs
+- Authentication
+- CRM Systems
+- Admin Panels
+- Dashboard Applications
+- Database Architecture
+- Backend Development
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+### 📱 Mobile Development
+
+- Flutter Applications
+- Android Applications
+- Firebase
+- Cross Platform Apps
+- App Maintenance
+
+</td>
+
+<td>
+
+### 🤖 AI & Automation
+
+- AI Workflows
+- AI Agents
+- Chatbots
+- Process Automation
+- AI Integrations
+
+</td>
+
+</tr>
+</table>
 
 ---
 
-# 🌍 Industries We Serve
+# Technology Stack
 
-- Startups
-- Small Businesses
-- Enterprises
-- Restaurants
-- Healthcare
-- Education
-- Real Estate
-- Retail
-- E-Commerce
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,mongodb,mysql,firebase,flutter,dart,tailwind,wordpress,figma,git,github,vscode,postman"/>
+
+</div>
 
 ---
 
-# 🎯 Our Mission
+# Why Mustex
 
-To empower businesses through innovative software solutions that are scalable, secure, and designed for long-term growth.
+<div align="center">
 
----
+| Modern | Secure | Fast | Scalable |
+|:------:|:------:|:----:|:--------:|
+| ⚡ | 🔒 | 🚀 | ☁️ |
 
-# 🌟 Why Mustex?
+</div>
 
-✔ Modern Technologies
+<br>
 
-✔ Scalable Architecture
+✔ Performance First
 
-✔ Clean & Maintainable Code
-
-✔ Mobile-First Approach
+✔ Clean Architecture
 
 ✔ User-Centered Design
 
 ✔ Reliable Support
 
-✔ Business-Focused Solutions
+✔ Modern Technologies
 
-✔ Performance & Security
+✔ Business-Focused Solutions
 
 ---
 
-# 📫 Contact
+# Development Process
 
-📧 **mustexdigital@gmail.com**
+```text
+Discover
 
-🌍 **Website:** Coming Soon
+     ↓
 
-💼 **LinkedIn:** Coming Soon
+Plan
+
+     ↓
+
+Design
+
+     ↓
+
+Develop
+
+     ↓
+
+Test
+
+     ↓
+
+Deploy
+
+     ↓
+
+Maintain
+```
+
+---
+
+# Our Philosophy
+
+```text
+Build Clean.
+
+Think Bigger.
+
+Move Faster.
+
+Scale Better.
+```
+
+---
+
+# Industries
+
+```
+Startups
+
+Healthcare
+
+Education
+
+Restaurants
+
+Retail
+
+Real Estate
+
+Small Businesses
+
+Enterprises
+
+E-Commerce
+```
+
+---
+
+# Connect
+
+<div align="center">
+
+📧 mustexdigital@gmail.com
+
+🌍 Website — Coming Soon
+
+💼 LinkedIn — Coming Soon
+
+</div>
 
 ---
 
 <div align="center">
 
-# MUSTEX
+## MUSTEX
 
 ### Building Software That Scales
 
-**Turning Ideas Into Digital Success.**
+*Engineering reliable digital products for modern businesses.*
+
+<br>
 
 Made with ❤️ by Mustex Digital
 
